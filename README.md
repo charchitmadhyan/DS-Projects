@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @charchitmadhyan
-- 👀 I’m interested Data insights
+- 👀 I’m interested in Data insights
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me @ ayush.madhyan1234@gmail.com
 
